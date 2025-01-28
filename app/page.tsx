@@ -1,5 +1,5 @@
   
-import BlogGrid from "../components/blog";
+import BlogGrid from "../components/Ourblog";
 import Display from "../components/displat";
 import ProductGrid from "../components/feature";
 import RocketSingleSeater from "../components/hero";

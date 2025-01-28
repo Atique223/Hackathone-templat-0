@@ -32,6 +32,7 @@ const RocketSingleSeater = () => {
         </div>
       </div>
     </div>
+    
   );
 };
 

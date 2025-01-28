@@ -1,4 +1,4 @@
-// File: C:\Users\HP\Desktop\hackathone\class 8\app\account\page.tsx
+// File: C:\Users\HP\Documents\GitHub\Hackathone-templat-0\app\account\page.tsx
 import * as entry from '../../../../app/account/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

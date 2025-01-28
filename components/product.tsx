@@ -67,7 +67,7 @@ const ProductGridList = () => {
       {/* View More Button */}
       <div className="text-center">
         <a
-          href="#"
+          href="/shop"
           className="text-black text-lg underline decoration-2 hover:text-gray-600"
         >
           View More
